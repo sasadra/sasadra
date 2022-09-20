@@ -69,3 +69,10 @@ let _sasadra = {
   <img  height="20" alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 </p>
 
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sasadra&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
